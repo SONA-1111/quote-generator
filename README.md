@@ -7,3 +7,5 @@ fork the repository and start working on it.
 best of luck.
 
 ## Task completed
+
+Link [https://reactjs-quote-generator-app.netlify.app/](https://reactjs-quote-generator-app.netlify.app/)
